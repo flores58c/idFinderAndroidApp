@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IDApp</string>
+    <!---9605305000188       my iD that works -->
+    <string name= "idType">Please type the 13 digit ID # </string>
+    <string name="dob">DOB:</string>
+    <string name="gender"> Gender: </string>
+    <string name="nationality"> Nationality: </string>
+    <string name="submitBtn">Submit</string>
+
+</resources>
